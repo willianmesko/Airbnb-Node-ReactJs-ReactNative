@@ -1,6 +1,6 @@
 # Airbnb-Node-ReactJs-ReactNative
 ![63226499-81f17280-c1b0-11e9-907b-5206e98e7147](https://user-images.githubusercontent.com/26778884/63263937-43b38c00-c260-11e9-8415-57169e99a3ba.png)
-![63226498-81f17280-c1b0-11e9-9167-7f74c99771e2](https://user-images.githubusercontent.com/26778884/63263941-44e4b900-c260-11e9-99df-ececdf7a84b5.gif)
+
 ![63226497-81f17280-c1b0-11e9-8af0-1e6613580bb5](https://user-images.githubusercontent.com/26778884/63263943-47471300-c260-11e9-8534-eedab9a60294.png)
 ![63226496-81f17280-c1b0-11e9-92ca-5da4f93185fb](https://user-images.githubusercontent.com/26778884/63263945-49a96d00-c260-11e9-9657-ac92061ba0fa.gif)
 ![63226495-8158dc00-c1b0-11e9-8620-112bb533628a](https://user-images.githubusercontent.com/26778884/63263947-4c0bc700-c260-11e9-820e-29a90fc286b2.gif)
